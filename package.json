@@ -34,7 +34,7 @@
     "lodash": "^4.17.4",
     "pchainjs-tx": "^1.0.8",
     "pweb3": "^1.2.2",
-    "sqlite3": "^4.0.4",
+    "sqlite3": "^5.0.3",
     "txdata": "^1.0.3"
   },
   "devDependencies": {
